@@ -6,5 +6,5 @@ https://github.com/naoto0804/cross-domain-detection
 Edit demo.py:
 
 ...
-
-See Colab: 
+ 
+See Colab:  Drawings-paintings-clipart-cross-domain-detection-3-10-2024.ipynb
